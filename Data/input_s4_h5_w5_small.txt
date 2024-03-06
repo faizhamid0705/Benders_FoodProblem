@@ -1,0 +1,27 @@
+Number of schools: 4
+Number of habitats: 5
+Number of warehouses: 5
+Number of scenarios: 3
+Overhead direct: 100
+Overhead indirect: 150
+Minimum demand of each adopted habitat to be satisfied: 0.5
+School locations and Supply Capacity per scenario::
+x	y	Cap1	Cap2	Cap3
+12	26	150	99	290
+78	37	180	95	288
+13	58	120	94	180
+20	55	210	128	260
+Habitat locations and Demand per scenario::
+x	y	Dem1	Dem2	Dem3
+57	80	180	110	268
+52	63	144	70	262
+87	67	108	83	203
+67	66	140	106	217
+60	66	110	63	143
+Warehouse locations, fixed cost and capacity::
+x	y	FixedCost	Cap
+23	56	50	20
+64	32	150	50
+63	77	120	30
+24	34	80	15
+20	30	65	35

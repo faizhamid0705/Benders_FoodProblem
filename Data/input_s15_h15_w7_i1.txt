@@ -1,0 +1,50 @@
+Number of schools: 15
+Number of habitats: 15
+Number of warehouses: 7
+Number of scenarios: 3
+Overhead direct: 100
+Overhead indirect: 150,
+Minimum demand of each adopted habitat to be satisfied: 0.50
+School locations and Supply Capacity per scenario::
+x	y	Cap1	Cap2	Cap3
+2	83	613	777	967
+32	25	237	383	490
+27	12	328	411	499
+30	95	314	482	581
+31	46	369	512	685
+53	93	486	739	946
+39	2	238	337	453
+56	26	613	921	1127
+83	55	594	846	1181
+45	25	265	388	487
+59	15	664	849	1050
+74	37	707	915	1236
+86	67	661	932	1167
+71	37	419	586	795
+90	4	494	681	827
+Habitat locations and Demand per scenario::
+x	y	Dem1	Dem2	Dem3
+55	31	546	877	761
+4	2	610	690	784
+66	80	582	626	691
+81	0	572	782	960
+51	4	585	786	870
+47	71	507	659	810
+69	32	489	662	918
+41	54	584	674	994
+91	53	637	722	869
+69	64	513	685	997
+73	91	445	886	876
+3	31	514	798	741
+16	5	511	860	786
+45	91	591	610	722
+89	87	628	656	846
+Warehouse locations, fixed cost and capacity::
+x	y	FixedCost	Cap
+34	39	12128	858
+11	80	5013	708
+81	1	5449	797
+97	85	6335	718
+7	11	7556	952
+42	96	4580	730
+51	10	8375	658
